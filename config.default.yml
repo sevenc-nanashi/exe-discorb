@@ -1,0 +1,7 @@
+# Botのトークン。
+token: Th1sIsN0t4T0k3n.B3cause.1fiShow1tB0tWillB3H4cked
+
+# 応答リスト。
+responds: 
+  # - こんにちは => こんにちは
+  - こんにちは => こんにちは
